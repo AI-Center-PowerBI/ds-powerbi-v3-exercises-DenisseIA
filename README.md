@@ -8,6 +8,7 @@ ds-powerbi-v3-exercises-DenisseIA created by GitHub Classroom
 - [Modelando datos (P2)](Practica04.pbix)
 - [Diseño de dashboards](Practica05.pbix)
 - [APIs y uso de parámetros](Practica06.pbit)
+- [Financial Report (libre)](Practica07.pbix)
 
 ## Información general
 - **Nombre**: Denisse Urenda Castañeda
